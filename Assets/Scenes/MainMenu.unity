@@ -1146,8 +1146,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -194.20001, y: -30}
-  m_SizeDelta: {x: 388.3994, y: 53.61029}
+  m_AnchoredPosition: {x: -221.8, y: -60.458}
+  m_SizeDelta: {x: 434.8722, y: 120.91571}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &295699800
 MonoBehaviour:
@@ -1209,7 +1209,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: new player
+  m_Text: click here for new player
 --- !u!222 &295699802
 CanvasRenderer:
   m_ObjectHideFlags: 0
